@@ -1,8 +1,8 @@
 {
-  "name": "Keroppi",
+  "name": "KeroppiiPhone",
   "author": "YuhMuva#1977",
   "version": "1",
-  "description": "An iPad theme dedicated to Keroppi (And Femboys)",
+  "description": "An iPhone theme dedicated to Keroppi (And Femboys)",
   "authors": [
     {
       "name": "YuhMuva",
@@ -11,7 +11,7 @@
   ],
   "background": {
     "blur": "0",
-    "url": "https://wallpapercave.com/uwp/uwp2632775.jpeg",
+    "url": "https://i.pinimg.com/736x/b7/b8/7e/b7b87e8d7e5051185fd9588d851eb4bd.jpg",
     "alpha": "0.69"
   },
   "theme_color_map": {
