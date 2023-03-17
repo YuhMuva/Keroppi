@@ -92,16 +92,16 @@
       "#4F684B"
     ],
     "TEXT_LINK": [
-      "#4F684B",
-      "#4F684B"
+      "#1D1212",
+      "#1D1212"
     ],
     "TEXT_MUTED": [
-      "#4F684B",
-      "#4F684B"
+      "#1D1212",
+      "#1D1212"
     ],
     "TEXT_NORMAL": [
-      "#4F684B",
-      "#4F684B"
+      "#1D1212",
+      "#1D1212"
     ]
   },
   "colours": {
@@ -115,8 +115,8 @@
     "PRIMARY_DARK_630": "#88BA85",
     "PRIMARY_DARK_700": "#88BA85",
     "PRIMARY_DARK_800": "#88BA85",
-    "WHITE": "#76B4DB",
-    "STATUS_GREEN_600": "#76B4DB",
+    "WHITE": "#FFFFFF",
+    "STATUS_GREEN_600": "#FFFFFF",
     "STATUS_RED": "#F09BA0"
   },
   "unsafe_colors": {
