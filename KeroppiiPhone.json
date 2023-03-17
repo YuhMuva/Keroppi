@@ -16,16 +16,16 @@
   },
   "theme_color_map": {
     "KEYBOARD": [
-      "#BFDABE",
-      "#BFDABE"
+      "#EBC0D1",
+      "#EBC0D1
     ],
     "BACKGROUND_PRIMARY": [
       "#88BA85",
       "#88BA85"
     ],
     "BACKGROUND_SECONDARY": [
-      "#EBC0D1",
-      "#EBC0D1"
+      "#BFDABE",
+      "#BFDABE"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#88BA85",
