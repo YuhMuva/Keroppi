@@ -24,8 +24,8 @@
       "#88BA85"
     ],
     "BACKGROUND_SECONDARY": [
-      "#EBC0D1",
-      "#EBC0D1"
+      "#BFDABE",
+      "#BFDABE"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#88BA85",
@@ -111,7 +111,7 @@
     "PRIMARY_DARK_360": "#4F684B",
     "PRIMARY_DARK_400": "#4F684B",
     "PRIMARY_DARK_500": "#FFFFFF",
-    "PRIMARY_DARK_600": "#EBC0D1",
+    "PRIMARY_DARK_600": "#BFDABE",
     "PRIMARY_DARK_630": "#88BA85",
     "PRIMARY_DARK_700": "#88BA85",
     "PRIMARY_DARK_800": "#88BA85",
