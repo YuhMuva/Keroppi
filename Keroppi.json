@@ -1,0 +1,126 @@
+{
+  "name": "Keroppi",
+  "author": "YuhMuva#1977",
+  "version": "1",
+  "description": "An iPad theme dedicated to Keroppi (And Femboys)",
+  "authors": [
+    {
+      "name": "YuhMuva",
+      "id": "359111312418275349"
+    }
+  ],
+  "background": {
+    "blur": "0",
+    "url": "https://wallpapercave.com/uwp/uwp2632775.jpeg",
+    "alpha": "0.69"
+  },
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#EBC0D1",
+      "#EBC0D1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#88BA85",
+      "#88BA85"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#EBC0D1",
+      "#EBC0D1"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#88BA85",
+      "#88BA85"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#88BA85",
+      "#88BA85"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#EBC0D1",
+      "#EBC0D1"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#EBC0D1",
+      "#EBC0D1"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#88BA85",
+      "#88BA85"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#4F684B",
+      "#EBC0D1"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#88BA85",
+      "#88BA85"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#EBC0D1",
+      "#EBC0D1"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "HEADER_PRIMARY": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "HEADER_SECONDARY": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#76B4DB",
+      "#76B4DB"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "TEXT_LINK": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "TEXT_MUTED": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "TEXT_NORMAL": [
+      "#4F684B",
+      "#4F684B"
+    ],
+    "CHANNEL_ICON": "#4F684B"
+  },
+  "colours": {
+    "PRIMARY_DARK": "#4F684B",
+    "PRIMARY_DARK_100": "#4F684B",
+    "PRIMARY_DARK_300": "#4F684B",
+    "PRIMARY_DARK_360": "#4F684B",
+    "PRIMARY_DARK_400": "#4F684B",
+    "PRIMARY_DARK_500": "#FFFFFF",
+    "PRIMARY_DARK_600": "#EBC0D1",
+    "PRIMARY_DARK_630": "#88BA85",
+    "PRIMARY_DARK_700": "#88BA85",
+    "PRIMARY_DARK_800": "#88BA85",
+    "WHITE": "#76B4DB",
+    "STATUS_GREEN_600": "#76B4DB",
+    "STATUS_RED": "#F09BA0"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#EBC0D1"
+  }
+}
