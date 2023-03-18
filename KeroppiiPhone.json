@@ -10,7 +10,7 @@
     }
   ],
   "background": {
-    "blur": "0",
+    "blur": "3",
     "url": "https://i.pinimg.com/736x/99/63/07/996307854a8df9552c748b513aa8998b.jpg",
     "alpha": "0.69"
   },
@@ -20,8 +20,8 @@
       "#EBC0D1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#88BA85",
-      "#88BA85"
+      "#BFDABE",
+      "#BFDABE"
     ],
     "BACKGROUND_SECONDARY": [
       "#BFDABE",
